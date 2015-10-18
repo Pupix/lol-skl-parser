@@ -1,0 +1,28 @@
+{
+    "name": "lol-skl-parser",
+    "license": "MIT",
+    "description": "A parser for .skl files from League of Legends.",
+    "version": "0.9.0",
+    "homepage": "https://github.com/Pupix/lol-skl-parser",
+    "author": {
+        "name": "Robert Manolea",
+        "email": "manolea.robert@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pupix/lol-skl-parser.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Pupix/lol-skl-parser/issues"
+    },
+    "dependencies": {
+        "lol-file-parser": "*",
+        "expandjs": "^0.9.0"
+    },
+    "keywords": [
+        "file parser",
+        "league of legends",
+        "lol",
+        "skl"
+    ]
+}
